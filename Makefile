@@ -47,7 +47,7 @@ gazelle: vendor
 	buildozer 'replace deps //vendor/github.com/gogo/protobuf/types:go_default_library @com_github_gogo_protobuf//types:go_default_library' '//...:%go_library'
 
 vendor:
-	dep ensure -v -update
+	GO111MODULE=on go mod vendor
 
 .PHONY: lint
 lint:

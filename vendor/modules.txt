@@ -1,0 +1,28 @@
+# github.com/gogo/protobuf v1.1.1
+github.com/gogo/protobuf/proto
+github.com/gogo/protobuf/types
+github.com/gogo/protobuf/sortkeys
+# github.com/golang/protobuf v1.2.0
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/protoc-gen-go/descriptor
+github.com/golang/protobuf/ptypes
+github.com/golang/protobuf/ptypes/duration
+github.com/golang/protobuf/ptypes/timestamp
+github.com/golang/protobuf/ptypes/any
+github.com/golang/protobuf/ptypes/wrappers
+github.com/golang/protobuf/protoc-gen-go/plugin
+github.com/golang/protobuf/protoc-gen-go/generator
+github.com/golang/protobuf/protoc-gen-go/generator/internal/remap
+# github.com/iancoleman/strcase v0.0.0-20180726023541-3605ed457bf7
+github.com/iancoleman/strcase
+# github.com/lyft/protoc-gen-star v0.4.4
+github.com/lyft/protoc-gen-star
+github.com/lyft/protoc-gen-star/lang/go
+# github.com/spf13/afero v1.1.2
+github.com/spf13/afero
+github.com/spf13/afero/mem
+# golang.org/x/net v0.0.0-20181023162649-9b4f9f5ad519
+golang.org/x/net/context
+# golang.org/x/text v0.3.0
+golang.org/x/text/transform
+golang.org/x/text/unicode/norm

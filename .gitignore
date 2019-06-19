@@ -31,3 +31,5 @@ bazel-*
 .project
 .classpath
 .settings
+
+.idea
